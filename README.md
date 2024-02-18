@@ -19,14 +19,23 @@ Train the Model using train dataset and predict the result on test dataset. You 
 ![Tridiagonal ](https://github.com/Mohd-Kashif-Shaikh/Python_Finance_Dashboard/assets/138367593/3e8d95a2-94a9-4e33-9404-3659276edee5)
 
 Q1): What preprocessing steps would you perform on the train dataset before using it for modelling.
+
 Q2) Are there any missing values in the dataset? If yes, what is the nature of missing values and how might this affect model performance. What are some techniques to mitigate this issue.
+
 Q4) Do you see any potential features in the review column that could be useful for predicting the drug name and condition.
+
 Q5) Can you provide some statistics and visualizations to summarize the distribution of categories (drug name)
+
 Q6) Are there classes which are underrepresented or overrepresented? How might this skew the model’s prediction.
+
 Q7) What are some techniques that can be used to address this? Does the model performance improve after incorporating such strategies.
+
 Q8) What Modelling strategy would you consider for predicting the drug name from the dataset and why.
+
 Q9) How can we assess model robustness (Cross Validation Strategies).
+
 Q10) What evaluation metrics would you use to assess the performance of your model.
+
 Q11) What considerations would you have for deploying this model in a production environment.
 
 
